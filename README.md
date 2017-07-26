@@ -2,6 +2,7 @@
 iTEBD simulation for infinite XXZ spin chain
 
 ## Introduction
+The infinite time-evolving block decimation (iTEBD) is an approach to directly search ground state of a system in thermodynamic limit.
 The infinite XXZ spin chain has been widely studied because of rich quantum phases it appears.
 It has the Hamiltonian form
 ```
@@ -73,3 +74,6 @@ Start running and its output
   +0.250000    -3.7547720505510984      +0.0168122533987641      +1.5184866134677291      +1.4197915941327492
 ....
 ```
+
+## Reference
+* [The iTEBD algorithm beyond unitary evolution](https://arxiv.org/abs/0711.3960)
